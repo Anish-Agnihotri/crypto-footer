@@ -1,4 +1,4 @@
-<p align='center'><img src='https://mycrypto.com/common/assets/images/logo-mycrypto.svg' /></p>
+<p align='center'><img src='https://support.mycrypto.com/images/mycrypto-logo.png' width='250'/></p>
 <h1 align='center'>Crypto Footer</h1>
 <h4 align='center'> Super quick footer made to be conveniently imported into any existing webpage to provide network and balance statistics with a minimal 2.05kB import (assuming web3 provider is present).</h4>
 
